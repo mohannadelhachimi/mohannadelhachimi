@@ -40,7 +40,7 @@ I am a Data Science & Artificial Intelligence engineering student at **ENSA Marr
 | Project | Focus | Stack |
 | :--- | :--- | :--- |
 | [AquaPilot AI](https://github.com/mohannadelhachimi/aquapilot-ai) | Water intelligence and anomaly detection prototype | Python, scikit-learn, Streamlit |
-| Morocco Data Explorer | Regional labor-market analysis using official Moroccan statistics | Pandas, NumPy, Matplotlib |
+| [Morocco Data Explorer](https://github.com/mohannadelhachimi/disparites-emploi-maroc) | Regional labor-market analysis using official Moroccan statistics | Pandas, NumPy, Matplotlib |
 | [Personal Portfolio](https://mohannad-elhachimi.vercel.app/) | Bilingual engineering portfolio | React, Vite |
 
 ## 04 / GitHub activity
